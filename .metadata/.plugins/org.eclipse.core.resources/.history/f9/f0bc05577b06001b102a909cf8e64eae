@@ -1,0 +1,6 @@
+package com.olena.relationships.services;
+
+@Service
+public class Service {
+
+}

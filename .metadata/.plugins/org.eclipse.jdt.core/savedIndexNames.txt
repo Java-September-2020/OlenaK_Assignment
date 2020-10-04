@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/olenakasiianyk/Desktop/DataII/.metadata/.plugins/org.eclipse.jdt.core
+3036831908.index
+3921263708.index
+2294782924.index

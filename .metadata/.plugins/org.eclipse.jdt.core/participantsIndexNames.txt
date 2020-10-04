@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/Users/olenakasiianyk/Desktop/DataII/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3466778025.index
+/dojoAndNinjas/src/main/java
+/Users/olenakasiianyk/Desktop/DataII/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/99031784.index
+/relationships/src/main/java
+/Users/olenakasiianyk/Desktop/DataII/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/631445337.index
+/dojoAndNinjas/src/main/java
+/Users/olenakasiianyk/Desktop/DataII/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3545996263.index
+/dojoAndNinjas/src/main/java
